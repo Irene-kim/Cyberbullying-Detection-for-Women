@@ -4,4 +4,4 @@
 Research Project for Master's Dissertation
 Codes were written in Colab environment 
 
-Annotated data are available upon request - S.Kim63@lse.ac.uk 
+Annotated data are available upon request - S.Kim63@lse.ac.uk / keks1208@naver.com
